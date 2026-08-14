@@ -394,7 +394,7 @@ export const ALBUMS: Album[] = [
         {
           text: {
             'es-AR': 'En la quinta toma, acompañamos a Pamela en una caminata por los senderos asfaltados del parque costero. La brisa suave de la tarde hacía balancear su pelo larguísimo en sintonía con sus pasos marcados. Hay un dinamismo relajado en esta imagen que transmite la soltura de disfrutar un día soleado en Brasil.\n\nCaminar bajo los árboles tropicales escuchando el murmullo de la brisa marina fue reconfortante.',
-            'en': 'In the fifth shot, we accompanied Pamela along paved pathways in the coastal park. Soft afternoon breeze sways her long hair in step with her stride. There is a relaxed rhythm in this frame capturing a sunny day in Brazil.\n\nWalking under tropical branches while listening to sea winds was deeply refreshing as Pamela’s long dark hair swayed naturally with every step along the trails.'
+            'en': 'In the fifth shot, we accompanied Pamela along paved pathways in the coastal park. Soft afternoon breeze sways her long hair in step with her stride. There is a relaxed rhythm in this frame capturing a sunny day in Brasil.\n\nWalking under tropical branches while listening to sea winds was deeply refreshing as Pamela’s long dark hair swayed naturally with every step along the trails.'
           },
           image: {
             id: 'sti-img-5',
@@ -489,7 +489,7 @@ export const ALBUMS: Album[] = [
         },
         {
           text: {
-            'es-AR': 'En la segunda fotografía, nos trasladamos hacia las arterias del centro histórico. La solidez arquitectónica de las fachadas urbanas contrasta bellamente con la fluidez del vestuario y la caída suave de la melena de Pamela descansando sobre sus hombros.\n\nLas calles céntricas de Posadas conservan fachadas de época colonial y moderna. La presencia señorial de Pamela aportó una nota de alta moda a cada esquina.',
+            'es-AR': 'En la segunda fotografía, nos trasladamos hacia las arterias del centro histórico. La solidez arquitectónica de las fachadas urbanas contrasta bellamente con la fluidez del vestuario y la caída suave de la melena de Pamela descansando sobre sus hombros.\n\nLas calles céntricas de Posadas conservan fachadas de época colonial y moderna. La presencia señorial de Pamela aportó una nota de alta moda a cada esquina.\n\nCaminar por las históricas calles del centro nos regaló una vista maravillosa de la vida cotidiana posadeña. La gente saludaba cálidamente a Pamela mientras ella avanzaba con total simpatía.',
             'en': 'In the second image, we moved toward historic downtown streets. Urban facades contrast with the fluid drape of Pamela’s long hair.\n\nDowntown Posadas avenues blend historic colonial architecture with modern vibes. Pamela’s regal presence brought high fashion to every street corner as her dark hair added natural elegance to each frame.\n\nWalking along the historic streets offered a vibrant glimpse into local life. Passersby smiled as Pamela walked gracefully past classic balconies.'
           },
           image: {
@@ -607,12 +607,12 @@ export const ALBUMS: Album[] = [
   {
     id: 'balneario-camboriu',
     title: {
-      'es-AR': 'Balneário Camboriú: Brisa del Atlántico y Rascacielos',
-      'en': 'Balneário Camboriú: Atlantic Breeze and Beachside Skyline'
+      'es-AR': 'Balneário Camboriú: Brisa del Atlántico y la Rueda Gigante',
+      'en': 'Balneário Camboriú: Atlantic Breeze and the Giant Ferris Wheel'
     },
     subtitle: {
-      'es-AR': 'Cinco capturas costeras entre las olas doradas, la Avenida Atlântica y el sol de Santa Catarina',
-      'en': 'Five coastal frames amid golden waves, Avenida Atlântica, and Brazilian sunshine'
+      'es-AR': 'Cuatro relatos fotográficos entre los rascacielos costeros, la Rueda Gigante de Pontal Norte y la arena de Santa Catarina',
+      'en': 'Four photographic stories amid beachside skyscrapers, Pontal Norte Ferris Wheel, and Brazilian sands'
     },
     category: 'Coastal & Resort',
     date: {
@@ -626,108 +626,99 @@ export const ALBUMS: Album[] = [
     photographer: 'Diario Visual de Pamela Belén Militello',
     stylist: 'Pamela Belén Militello',
     readTime: {
-      'es-AR': '12 min de lectura',
-      'en': '12 min read'
+      'es-AR': '10 min de lectura',
+      'en': '10 min read'
     },
-    coverImage: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_1_5%20628807834_18566419033014206_384184655151042902_n.jpg',
+    coverImage: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg',
     shortExcerpt: {
-      'es-AR': 'Una refrescante serie costera de 5 fotografías donde el viento marino del mar brasileño juega con la hermosa melena de Pamela Belén Militello.',
-      'en': 'A refreshing 5-photo beach series where Brazilian sea breezes dance through Pamela Belén Militello’s long hair.'
+      'es-AR': 'Una espectacular serie costera de 4 fotografías donde Pamela Belén Militello posa descalza frente a los rascacielos y la Rueda Gigante FG Big Wheel con su melena larguísima flotando al viento.',
+      'en': 'A spectacular 4-photo coastal series where Pamela Belén Militello poses barefoot before iconic skyscrapers and the FG Big Wheel with her long dark hair flowing.'
     },
     fullStory: {
       intro: {
-        'es-AR': 'Balneário Camboriú posee una mezcla deslumbrante entre naturaleza marina y moderna arquitectura vertical. Con sus rascacielos gigantescos emergiendo casi directamente de la arena dorada en el estado brasileño de Santa Catarina, la playa ofrece una atmósfera sofisticada y llena de vitalidad. Llegamos a la Avenida Atlântica en pleno verano. El viento tropical venía cargado de brisa salina, haciendo que la melena larguísima de Pamela Belén Militello volara constantemente en ondas espectaculares.\n\nEl contraste de la arena blanca, las olas del Atlántico y las torres infinitas recortadas contra el cielo azul brasileño creó un lienzo perfecto para una producción de moda veraniega. Pamela caminaba con total soltura luciendo su cabello oscuro y brillante, disfrutando del calor del sur de Brasil. La vibrante energía catarinense nos contagió a todos desde el primer minuto, brindándonos un entorno costero inolvidable.',
-        'en': 'Balneário Camboriú boasts a striking mix of coastal nature and modern vertical architecture. With tall skyscrapers rising directly along golden sands in Santa Catarina, Brazil, the beach offers a resort ambiance. We arrived at Avenida Atlântica in peak summer. Tropical breezes carried sea salt, keeping Pamela Belén Militello’s long hair in constant motion.\n\nThe contrast of white sand, ocean waves, and soaring skyline towers under a clear Brazilian sky formed an ideal canvas for resort fashion. Pamela walked effortlessly showcasing her dark, lustrous locks while taking in the vibrant coastal energy of Southern Brazil. The sunlit atmosphere inspired our entire creative crew from the start, offering a world-class resort experience filled with warmth and style.'
+        'es-AR': 'Balneário Camboriú, célebre en todo el mundo como la "Dubai de Sudamérica", deslumbra por su electrizante combinación de rascacielos imponentes, playas de arena dorada y el morro verde de Pontal Norte donde se eleva la majestuosa Rueda Gigante FG Big Wheel. Llegamos a la costa de Santa Catarina en una tarde despejada de verano. El viento marino soplaba fresco desde el océano Atlántico, convirtiendo la larguísima cabellera oscura de Pamela Belén Militello en una obra de arte viva que caía en ondas impresionantes casi hasta sus rodillas.\n\nPara esta producción playera de 4 momentos inolvidables, Pamela vistió un top cruzado gris y un short estampado geométrico en blanco y negro, caminando descalza sobre la suave arena costera. La presencia de las torres arquitectónicas emergiendo a la izquierda y la silueta blanca de la Rueda Gigante recortada contra el cielo a la derecha brindaron un marco visual insuperable. Pamela disfrutó cada segundo del rodaje, dejando que la brisa atlántica jugara libremente con los metros de su pelo largo.',
+        'en': 'Balneário Camboriú, celebrated worldwide as South America’s coastal skyline capital, dazzles with its breathtaking mix of towering glass skyscrapers, golden sands, and the lush green hills of Pontal Norte home to the iconic FG Big Wheel. We arrived on the Santa Catarina shore on a crystal-clear summer afternoon. Ocean winds blew fresh off the Atlantic, turning Pamela Belén Militello’s signature long dark hair into a living sculpture cascading down past her knees.\n\nFor this beach session capturing 4 unforgettable moments, Pamela wore a chic grey crop top paired with patterned black-and-white shorts, walking barefoot along the tide-washed shoreline. The striking architectural skyline rising to the left and the white silhouette of the giant Ferris Wheel set against green hills to the right offered an unmatched backdrop. Pamela savored every moment, allowing Atlantic winds to play through her long hair.'
       },
       sections: [
         {
           text: {
-            'es-AR': 'Como podés observar en esta primera imagen de la serie, Pamela camina cerca del agua sintiendo la frescura del Atlántico. Su ropa resort resalta con elegancia sobre la arena cálida, mientras que su melena oscura vuela suavemente hacia un costado, captando destellos solares.\n\nSentir la brisa marina del Atlántico en pleno febrero es una experiencia revitalizante. Pamela avanzaba sonriente mientras las olas acariciaban sus feet y el sol calentaba la costa catarinense. Cada paso por la arena dorada transmitía libertad pura y alegría estival.',
-            'en': 'As observed in this first shot, Pamela walks near the tide enjoying the Atlantic breeze. Her resort outfit complements the warm sand while her long dark hair sways gently.\n\nFeeling the refreshing Atlantic sea breeze in mid-February is deeply rejuvenating. Pamela walked smiling as gentle waves lapped near her feet and summer sun illuminated the Santa Catarina shoreline. Every step along the golden sand conveyed pure freedom and summer joy as her dark locks danced in the wind.\n\nThe warm ocean air carried the soothing scent of saltwater across the promenade.'
+            'es-AR': 'En esta primera fotografía del álbum, Pamela se para de perfil sobre la arena húmeda de Balneário Camboriú. A su izquierda se alzan los rascacielos acristalados más altos de Sudamérica bordeando la playa, mientras que al fondo a la derecha se distingue claramente la Rueda Gigante FG Big Wheel ubicada en la ladera del morro. Con las manos apoyadas en los bolsillos de su short estampado y descalza sobre la arena, Pamela mira hacia el mar mientras su abundante cabellera oscura vuela espectacularmente hacia atrás impulsada por la brisa atlántica.\n\nLa inmensidad de la playa y el contraste entre el perfil moderno de la ciudad y la naturaleza de la bahía crean una composición visual imponente. La melena de Pamela parece flotar en el aire con una gracia natural que atrapa de inmediato la mirada de cualquier espectador.\n\nEstar parada allí, sintiendo la brisa fresca del mar y escuchando el murmullo constante de las olas rompiendo suavemente sobre la arena, creó una atmósfera de paz maravillosa que se refleja en cada detalle de la fotografía.',
+            'en': 'In this opening photograph of the album, Pamela stands in profile along the sands of Balneário Camboriú. To her left rise South America’s tallest glass skyscrapers lining Avenida Atlântica, while in the background to the right, the FG Big Wheel stands out along the hillside. Barefoot with hands tucked in her patterned shorts, Pamela gazes toward the sea as her long dark hair flows backward dramatically in the ocean breeze.\n\nThe wide beach expanse paired with the contrast between modern skyline towers and the natural bay creates a commanding composition. Pamela’s long hair appears to float weightlessly in the air, instantly drawing admiration.\n\nStanding there, breathing in the fresh sea breeze and listening to the rhythmic sound of waves gently breaking against the sand, created a marvelous sense of peace that is reflected in every single detail of this photograph.'
           },
           image: {
             id: 'bal-img-1',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_1_5%20628807834_18566419033014206_384184655151042902_n.jpg',
-            title: { 'es-AR': '1. Brisa del Mar Atlántico', 'en': '1. Atlantic Sea Breeze' },
-            caption: { 'es-AR': 'Pamela caminando a orillas del agua en Camboriú.', 'en': 'Pamela walking along the shore in Camboriú.' }
+            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg',
+            title: { 'es-AR': '1. Silueta Costera y Rascacielos', 'en': '1. Coastal Silhouette and Skyline' },
+            caption: { 'es-AR': 'Pamela de perfil sobre la playa con los rascacielos y la Rueda Gigante de fondo.', 'en': 'Pamela posing on the beach with skyscrapers and the Big Wheel behind.' },
+            aspectRatio: 'portrait'
           }
         },
         {
           text: {
-            'es-AR': 'Para la segunda toma, avanzamos hacia el sector de Barra Sul. Las torres acristaladas de la ciudad reflejaban el sol brillante del mediodía. Sin embargo, justo cuando Pamela giraba hacia la cámara, un remolino de viento costero le sopló todo el pelo sobre los ojos y se le enredó momentáneamente en los lentes de sol. Nos causó tanta gracia que nos quedamos unos minutos riendo en la arena mientras acomodábamos cada mecha.\n\nSuperada la pausa divertida por el viento marino, logramos una toma impecable donde la arquitectura moderna resalta en el fondo mientras el pelo de Pamela cae con gracia sobre su espalda.',
-            'en': 'For the second image, we moved toward Barra Sul. Glass towers reflected bright midday sun. However, just as Pamela turned toward the camera, a coastal wind swirl blew her hair across her eyes and wrapped around her sunglasses! It caused such laughter that we paused to untangle her long locks on the beach.\n\nAfter overcoming the funny sea wind mishap, we captured an immaculate shot with modern beach towers rising in the background while Pamela’s dark hair cascades with grace down her back.\n\nBarra Sul is famous for its iconic skyline views where ocean meets modern high-rise architecture in impressive fashion.'
+            'es-AR': 'Para la segunda toma nos acercamos hacia el sector norte de la playa. Como se observa en esta imagen, Pamela se gira hacia la cámara luciendo una sonrisa radiante y contagiosa. La Rueda Gigante FG Big Wheel aparece encuadrada exactamente por detrás de su cabeza sobre el verdor frondoso del cerro. Su cabello largo cae recto e impecable hacia el costado izquierdo de su figura, cayendo mucho más abajo de su cintura.\n\nLa luz clara de la tarde destaca la calidez de su rostro y la frescura del atuendo playero. Es un retrato lleno de alegría estival donde la arquitectura turística de Camboriú y la simpatía de Pamela se combinan en perfecta sintonía.\n\nSin embargo, segundos antes de disparar la toma, una ráfaga traicionera del viento del mar le voló unos mechones largos directamente a la boca. Pamela no pudo evitar reírse a carcajadas mientras se reacomodaba el pelo y lográbamos esta imagen tan alegre y natural.',
+            'en': 'For the second image, we moved closer to the northern beach section. As captured in this portrait, Pamela turns to face the lens with a radiant smile. The FG Big Wheel frames directly behind her head against the lush green hillside of Pontal Norte. Her signature long hair falls straight down past her hips on the left side of her figure.\n\nBright afternoon light illuminates her joyful expression and casual resort styling. It is a portrait filled with summer warmth where Camboriú’s iconic landmark and Pamela’s natural charm harmonize flawlessly.\n\nHowever, just seconds before clicking the shutter, a sudden gust off the ocean blew long strands of hair straight across her mouth! Pamela couldn’t help but laugh out loud as she tucked her locks back, allowing us to capture this delightfully joyful and authentic moment.'
           },
           image: {
             id: 'bal-img-2',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_2_5%20636884765_18566419042014206_5388785341155824752_n.jpg',
-            title: { 'es-AR': '2. Cristal y Rascacielos en Barra Sul', 'en': '2. Glass Towers in Barra Sul' },
-            caption: { 'es-AR': 'Elegancia frente a la arquitectura moderna de la playa.', en: 'Grace against modern beachside towers.' }
+            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_2_4%20655184733_18097401329055057_1868155506625292405_n.jpg',
+            title: { 'es-AR': '2. Sonrisa bajo la Rueda Gigante', 'en': '2. Radiant Smile at the Big Wheel' },
+            caption: { 'es-AR': 'Pamela sonriendo a cámara con la FG Big Wheel a sus espaldas.', 'en': 'Pamela smiling warmly with the FG Big Wheel behind her.' },
+            aspectRatio: 'portrait'
           },
           pullQuote: {
             text: {
-              'es-AR': 'El mar te renueva las energías y el viento te recuerda que la verdadera libertad es despeinarse sin vergüenza.',
-              'en': 'The ocean renews your energy, and the sea wind reminds you that true freedom is letting your hair go wild.'
+              'es-AR': 'Caminar descalza por la playa sintiendo el viento en el pelo te recuerda lo simple y hermosa que es la vida.',
+              'en': 'Walking barefoot on the sand with the wind in your hair reminds you how simple and beautiful life is.'
             },
             author: 'Pamela Belén Militello'
           }
         },
         {
           text: {
-            'es-AR': 'En la tercera fotografía, registramos un paseo relajado junto a la orilla mojada. El sonido rítmico de las olas al romper sobre la arena transmitía una paz contagiosa.\n\nCaminar descalza sobre la arena húmeda de Camboriú fue el momento de mayor conexión con el mar. La melena larga de Pamela acompañaba el movimiento de sus pasos con naturalidad, reflejando destellos marinos y serenidad tropical.',
-            'en': 'In the third photograph, we recorded a relaxed stroll along wet sands as waves lapped the shore.\n\nWalking barefoot along the wet shores of Camboriú offered pure relaxation. Pamela’s long dark hair accompanied every step naturally, catching marine highlights under the afternoon sun and reflecting ocean tranquility.\n\nThe gentle sound of Atlantic waves crashing against the sand provided a calming background soundtrack for our visual story.'
+            'es-AR': 'En la tercera fotografía, capturamos un encuadre más cercano y expresivo. Pamela posa sonriente acomodando suavemente su mano izquierda cerca del escote de su top gris, mientras la brisa del mar sopló fuertemente de costado. Ese soplido repentino elevó su larguísima melena oscura hacia la derecha, creando una cortina de cabello flotante de un impacto visual deslumbrante. Detrás de ella, la imponente estructura metálica de la Rueda Gigante domina el cielo costero.\n\nFue un momento mágico de espontaneidad donde la fuerza del viento costero jugó a favor del encuadre. Pamela soltó una carcajada fresca mientras se acomodaba los mechones que el aire movía sobre su hombro.\n\nTener una melena tan larga requiere paciencia y sentido del humor, especialmente cuando el mar decide jugar con tu peinado en medio de una producción fotográfica.',
+            'en': 'In the third photograph, we recorded a close, highly expressive framing. Pamela poses smiling, gently resting her hand near her collarbone as a sudden sea gust sways her hair. That breeze lifted her long dark locks to the side, forming a floating curtain of hair with breathtaking movement. Behind her, the white geometric frame of the giant Ferris Wheel spans the sky.\n\nIt was a magical spontaneous moment where ocean winds elevated the composition. Pamela laughed warmly as she gathered the long strands of dark hair blowing across her shoulder.\n\nHaving such long hair requires patience and a good sense of humor, especially when the ocean wind decides to play with your hairstyle right in the middle of a photo shoot.'
           },
           image: {
             id: 'bal-img-3',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_3_5%20628760756_18566419054014206_377771732477935253_n.jpg',
-            title: { 'es-AR': '3. Caminata entre las Olas', 'en': '3. Ocean Tide Stroll' },
-            caption: { 'es-AR': 'Pasos tranquilos sintiendo la marea catarinense.', en: 'Tranquil steps feeling the ocean tide.' }
+            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_3_4%20655836617_18058305293701465_2887997485201314726_n.jpg',
+            title: { 'es-AR': '3. Cortina de Cabello y Brisa Marina', 'en': '3. Flowing Hair Curtain in the Breeze' },
+            caption: { 'es-AR': 'El viento marino haciendo elevar la larga melena de Pamela.', 'en': 'Sea wind lifting Pamela’s long dark hair to the side.' },
+            aspectRatio: 'portrait'
           }
         },
         {
           text: {
-            'es-AR': 'En el cuarto retrato del conjunto, elegimos un plano más cerrado para resaltar la sonrisa radiante de Pamela bajo el sol ardiente de febrero.\n\nLa calidez del sol brasileño le dio a su rostro un brillo especial. El cabello largo enmarcaba sus rasgos de manera magistral absorbiendo los destellos veraniegos con gran fuerza expresiva.',
-            'en': 'In the fourth framing, a tight shot highlights Pamela’s radiant smile under bright February sun.\n\nWarm Brazilian sunshine gave her skin a glowing tone. Her long dark hair framed her features flawlessly, absorbing summer sunbeams with expressive beauty.\n\nThe sunlight in Santa Catarina has a rich golden clarity that enhances close-up portraits effortlessly, bringing out her natural radiance.'
+            'es-AR': 'El cuarto encuadre y broche de oro de la serie es una toma de perfil desde atrás que rinde tributo a la espectacularidad del largo cabello de Pamela. Mirando fijamente hacia la Rueda Gigante en la distancia, Pamela permite apreciar en todo su esplendor la longitud extraordinaria de su melena, que cae fluida y sedosa superando con creces la línea de sus caderas. Las puntas del pelo vuelan libres con las ráfagas que entran directo desde el Atlántico.\n\nEsta perspectiva destaca la soltura y la densidad impresionante de su cabellera natural. Es un homenaje visual a la libertad de dejarse despeinar por el mar y disfrutar de un atardecer inolvidable en Balneário Camboriú.\n\nNos despedimos de la costa catarinense con la satisfacción de haber registrado 4 postales únicas que guardan la luz, la brisa marina y la elegancia auténtica de Pamela Belén Militello.',
+            'en': 'The fourth photograph and grand finale of the series offers a striking three-quarter rear perspective honoring Pamela’s spectacular hair length. Looking out toward the Big Wheel in the distance, Pamela showcases her extraordinary locks cascading silky and long far past her hips and thighs. The ends of her hair fan out softly with Atlantic wind gusts.\n\nThis perspective highlights the sheer volume and beauty of her long natural hair. It stands as a visual celebration of coastal freedom and unhurried beach sunsets in Balneário Camboriú.\n\nWe said farewell to the Santa Catarina coast with the deep satisfaction of having captured 4 unique postcards that preserve the light, ocean breeze, and authentic grace of Pamela Belén Militello.'
           },
           image: {
             id: 'bal-img-4',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_4_5%20628864080_18566419063014206_87081240690466480_n.jpg',
-            title: { 'es-AR': '4. Sonrisa de Verano', 'en': '4. Summer Portrait' },
-            caption: { 'es-AR': 'Retrato cálido disfrutando del sol playero.', en: 'Warm portrait taking in beach sunshine.' }
-          }
-        },
-        {
-          text: {
-            'es-AR': 'Completamos esta hermosa serie de 5 fotografías con la luz dorada del atardecer cayendo sobre el mar de Balneário Camboriú. Pamela cierra el día con una mirada llena de gratitud. Un verano inolvidable en el sur de Brasil.\n\nEl sol despidiéndose en el horizonte marítimo fue el broche de oro de nuestra visita a Santa Catarina, dejando recuerdos cargados de luz y brisa marina.',
-            'en': 'We complete this 5-photo series as golden sunset light fell across the ocean at Balneário Camboriú. Pamela closes the day with gratitude.\n\nThe sun setting over the ocean horizon provided a memorable conclusion to our shoot in Santa Catarina, leaving behind moments filled with light and sea breeze as the tide rolled in peacefully.\n\nWe said goodbye to Avenida Atlântica with unforgettable memories of ocean, skyline, and laughter under the Brazilian sun.'
-          },
-          image: {
-            id: 'bal-img-5',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_5_5%20639562337_18566419072014206_3913866666221461670_n.jpg',
-            title: { 'es-AR': '5. Atardecer Dorado en el Mar', 'en': '5. Golden Sunset Tide' },
-            caption: { 'es-AR': 'Cierre del atardecer costero en Santa Catarina.', en: 'Coastal sunset farewell in Santa Catarina.' }
+            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_4_4%20654024238_18074761664431094_1479329844602648616_n.jpg',
+            title: { 'es-AR': '4. Esplendor del Cabello al Viento', 'en': '4. Flowing Hair Spectacle' },
+            caption: { 'es-AR': 'Toma posterior donde se aprecia la longitud increíble del pelo de Pamela.', 'en': 'Rear perspective showcasing Pamela’s extraordinary hair length.' },
+            aspectRatio: 'portrait'
           }
         }
       ],
       behindTheScenesNote: {
-        'es-AR': 'Registrado en la Avenida Atlântica de Balneário Camboriú, Santa Catarina, Brasil, en febrero de 2026.',
-        'en': 'Recorded along Avenida Atlântica in Balneário Camboriú, Santa Catarina, Brazil, in February 2026.'
+        'es-AR': 'Registrado en la Praia Central y Pontal Norte de Balneário Camboriú, Santa Catarina, Brasil.',
+        'en': 'Documented along Praia Central and Pontal Norte in Balneário Camboriú, Santa Catarina, Brazil.'
       }
     },
     mainPicture: {
       id: 'bal-main-1',
-      url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_1_5%20628807834_18566419033014206_384184655151042902_n.jpg',
+      url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg',
       title: { 'es-AR': 'Brisa en Camboriú', 'en': 'Atlantic Breeze in Camboriú' },
-      caption: { 'es-AR': 'Pamela Belén Militello en Balneário Camboriú.', 'en': 'Pamela Belén Militello in Balneário Camboriú.' },
+      caption: { 'es-AR': 'Pamela Belén Militello en la playa de Balneário Camboriú.', 'en': 'Pamela Belén Militello on Balneário Camboriú beach.' },
       aspectRatio: 'portrait'
     },
     allImages: [
-      { id: 'bal-img-1', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_1_5%20628807834_18566419033014206_384184655151042902_n.jpg', title: { 'es-AR': '1. Brisa del Mar Atlántico', 'en': '1. Atlantic Sea Breeze' } },
-      { id: 'bal-img-2', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_2_5%20636884765_18566419042014206_5388785341155824752_n.jpg', title: { 'es-AR': '2. Cristal y Rascacielos en Barra Sul', 'en': '2. Glass Towers in Barra Sul' } },
-      { id: 'bal-img-3', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_3_5%20628760756_18566419054014206_377771732477935253_n.jpg', title: { 'es-AR': '3. Caminata entre las Olas', 'en': '3. Ocean Tide Stroll' } },
-      { id: 'bal-img-4', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_4_5%20628864080_18566419063014206_87081240690466480_n.jpg', title: { 'es-AR': '4. Sonrisa de Verano', 'en': '4. Summer Portrait' } },
-      { id: 'bal-img-5', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202026-02-18%2016.54%20DU6kJtOkR_N_5_5%20639562337_18566419072014206_3913866666221461670_n.jpg', title: { 'es-AR': '5. Atardecer Dorado en el Mar', 'en': '5. Golden Sunset Tide' } }
+      { id: 'bal-img-1', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg', title: { 'es-AR': '1. Silueta Costera y Rascacielos', 'en': '1. Coastal Silhouette and Skyline' } },
+      { id: 'bal-img-2', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_2_4%20655184733_18097401329055057_1868155506625292405_n.jpg', title: { 'es-AR': '2. Sonrisa bajo la Rueda Gigante', 'en': '2. Radiant Smile at the Big Wheel' } },
+      { id: 'bal-img-3', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_3_4%20655836617_18058305293701465_2887997485201314726_n.jpg', title: { 'es-AR': '3. Cortina de Cabello y Brisa Marina', 'en': '3. Flowing Hair Curtain in the Breeze' } },
+      { id: 'bal-img-4', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_4_4%20654024238_18074761664431094_1479329844602648616_n.jpg', title: { 'es-AR': '4. Esplendor del Cabello al Viento', 'en': '4. Flowing Hair Spectacle' } }
     ],
-    tags: ['Camboriú', 'Brasil', 'Playa', 'Atlántico', 'Santa Catarina'],
+    tags: ['Camboriú', 'Brasil', 'Playa', 'Atlántico', 'Rueda Gigante'],
     featured: false
   }
 ];
