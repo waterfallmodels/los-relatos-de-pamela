@@ -194,9 +194,12 @@ export const AlbumDetailPage: React.FC<AlbumDetailPageProps> = ({ albumId, onNav
                       alt={section.image.title[lang]}
                       style={{
                         width: '100%',
-                        maxHeight: '620px',
-                        objectFit: 'cover',
-                        display: 'block'
+                        maxHeight: '720px',
+                        objectFit: 'contain',
+                        objectPosition: 'center top',
+                        display: 'block',
+                        margin: '0 auto',
+                        background: '#0a0a0f'
                       }}
                     />
 

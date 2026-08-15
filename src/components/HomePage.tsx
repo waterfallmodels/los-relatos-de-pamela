@@ -235,6 +235,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, lang }) => {
                     width: '100%',
                     height: '480px',
                     objectFit: 'cover',
+                    objectPosition: 'center top',
                     borderRadius: '16px',
                     boxShadow: 'var(--shadow-main)'
                   }}

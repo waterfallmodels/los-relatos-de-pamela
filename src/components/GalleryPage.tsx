@@ -149,6 +149,7 @@ export const GalleryPage: React.FC<GalleryPageProps> = ({ onSelectAlbum, lang })
                       width: '100%',
                       height: '100%',
                       objectFit: 'cover',
+                      objectPosition: 'center top',
                       transition: 'transform 0.5s ease'
                     }}
                   />
