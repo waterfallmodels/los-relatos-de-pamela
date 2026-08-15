@@ -128,18 +128,35 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, lang }) => {
                   maxHeight: '600px',
                   background: '#0a0a0f'
                 }}>
-                  <img
-                    src="/images/hero.jpg"
-                    alt="Pamela Belén Militello"
+                  <video
+                    src="/images/hero.mp4"
+                    poster="/images/hero.jpg"
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
                     style={{
                       width: '100%',
                       height: 'auto',
                       maxHeight: '600px',
-                      objectFit: 'contain',
+                      objectFit: 'cover',
                       display: 'block',
                       margin: '0 auto'
                     }}
-                  />
+                  >
+                    <img
+                      src="/images/hero.jpg"
+                      alt="Pamela Belén Militello"
+                      style={{
+                        width: '100%',
+                        height: 'auto',
+                        maxHeight: '600px',
+                        objectFit: 'cover',
+                        display: 'block',
+                        margin: '0 auto'
+                      }}
+                    />
+                  </video>
                   {/* Overlay Tag */}
                   <div style={{
                     position: 'absolute',
