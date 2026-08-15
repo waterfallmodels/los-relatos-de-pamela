@@ -4,8 +4,8 @@ export const ALBUMS: Album[] = [
   {
     id: 'encarnacion-paraguay',
     title: {
-      'es-AR': 'Encarnación, Paraguay: Atardecer Dorado en la Costanera del Paraná',
-      'en': 'Encarnación, Paraguay: Golden Sunset on the Paraná Waterfront'
+      'es-AR': 'Encarnacion, Paraguay: Atardecer Dorado en la Costanera del Paraná',
+      'en': 'Encarnacion, Paraguay: Golden Sunset on the Paraná Waterfront'
     },
     subtitle: {
       'es-AR': 'Crónica visual de brisa del río, horas doradas y anécdotas al sol en la Playa San José',
@@ -17,8 +17,8 @@ export const ALBUMS: Album[] = [
       'en': 'August 2, 2026'
     },
     location: {
-      'es-AR': 'Encarnación, Paraguay',
-      'en': 'Encarnación, Paraguay'
+      'es-AR': 'Encarnacion, Paraguay',
+      'en': 'Encarnacion, Paraguay'
     },
     photographer: 'Diario Visual de Pamela Belén Militello',
     stylist: 'Pamela Belén Militello',
@@ -26,15 +26,15 @@ export const ALBUMS: Album[] = [
       'es-AR': '8 min de lectura',
       'en': '8 min read'
     },
-    coverImage: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_1_4%20762715425_18616838365014206_1873363318037267078_n.jpg',
+    coverImage: '/images/encarnacion-paraguay/1.jpg',
     shortExcerpt: {
       'es-AR': 'Un recorrido lírico por la costanera paraguaya donde la luz del atardecer resalta el andar relajado de Pamela Belén Militello y su inconfundible melena melancólica.',
       'en': 'A lyrical journey along the Paraguayan waterfront where twilight highlights Pamela Belén Militello’s effortless poise and iconic long hair.'
     },
     fullStory: {
       intro: {
-        'es-AR': 'Encarnación tiene esa magia rioplatense y guaraní que te afloja los hombros apenas pisás la costanera. Conocida con orgullo como la Perla del Sur paraguayo, esta ciudad ofrece un espectáculo visual incomparable cuando cae la tarde sobre el majestuoso río Paraná. El agua no es simplemente un cauce fluvial: se transforma en un espejo colosal que refleja tonalidades de ámbar, cobalto, cobre y oro fundido. Llegamos a la emblemática Playa San José cuando el sol comenzaba a inclinarse suavemente sobre la línea del horizonte. Nuestro objetivo era capturar no solo la belleza atemporal de la costa paraguaya, sino la autenticidad de la experiencia. Pamela Belén Militello caminaba despacio por la rambla, luciendo su característica cabellera larguísima y oscura que caía en ondas naturales deslumbrantes sobre su espalda. Cada suave ráfaga de aire fresco que venía desde el agua hacía que su pelo flotara libremente en el aire, funcionando casi como una prenda viva y llena de movimiento que enriquecía de forma orgánica cada encuadre de la producción.',
-        'en': 'Encarnación possesses that unique riverfront and Guaraní charm that immediately calms your soul the moment you step onto the promenade. Proudly known as the Pearl of Southern Paraguay, this vibrant city offers an incomparable visual spectacle as dusk settles over the majestic Paraná River. The water is far more than a riverbed; it transforms into a colossal natural mirror reflecting shades of amber, cobalt, copper, and molten gold. We arrived at the iconic San José Beach as the late afternoon sun began its soft descent towards the horizon. Our main creative goal was to capture not only the timeless beauty of the Paraguayan shoreline, but also the genuine authenticity of the journey. Pamela Belén Militello strolled along the boardwalk, her signature long, dark hair cascading down her back in breathtaking natural waves. Every gentle breeze sweeping off the river sent her locks flowing, acting as a living, dynamic accessory in every frame.'
+        'es-AR': 'Encarnacion tiene esa magia rioplatense y guaraní que te afloja los hombros apenas pisás la costanera. Conocida con orgullo como la Perla del Sur paraguayo, esta ciudad ofrece un espectáculo visual incomparable cuando cae la tarde sobre el majestuoso río Paraná. El agua no es simplemente un cauce fluvial: se transforma en un espejo colosal que refleja tonalidades de ámbar, cobalto, cobre y oro fundido. Llegamos a la emblemática Playa San José cuando el sol comenzaba a inclinarse suavemente sobre la línea del horizonte. Nuestro objetivo era capturar no solo la belleza atemporal de la costa paraguaya, sino la autenticidad de la experiencia. Pamela Belén Militello caminaba despacio por la rambla, luciendo su característica cabellera larguísima y oscura que caía en ondas naturales deslumbrantes sobre su espalda. Cada suave ráfaga de aire fresco que venía desde el agua hacía que su pelo flotara libremente en el aire, funcionando casi como una prenda viva y llena de movimiento que enriquecía de forma orgánica cada encuadre de la producción.',
+        'en': 'Encarnacion possesses that unique riverfront and Guaraní charm that immediately calms your soul the moment you step onto the promenade. Proudly known as the Pearl of Southern Paraguay, this vibrant city offers an incomparable visual spectacle as dusk settles over the majestic Paraná River. The water is far more than a riverbed; it transforms into a colossal natural mirror reflecting shades of amber, cobalt, copper, and molten gold. We arrived at the iconic San José Beach as the late afternoon sun began its soft descent towards the horizon. Our main creative goal was to capture not only the timeless beauty of the Paraguayan shoreline, but also the genuine authenticity of the journey. Pamela Belén Militello strolled along the boardwalk, her signature long, dark hair cascading down her back in breathtaking natural waves. Every gentle breeze sweeping off the river sent her locks flowing, acting as a living, dynamic accessory in every frame.'
       },
       sections: [
         {
@@ -44,7 +44,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'enc-img-1',
-            url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_1_4%20762715425_18616838365014206_1873363318037267078_n.jpg',
+            url: '/images/encarnacion-paraguay/1.jpg',
             title: {
               'es-AR': '1. Serenidad en la Costanera San José',
               'en': '1. Waterfront Serenity on San José Beach'
@@ -63,7 +63,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'enc-img-2',
-            url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_2_4%20763401568_18616838392014206_3313874946813523897_n.jpg',
+            url: '/images/encarnacion-paraguay/2.jpg',
             title: {
               'es-AR': '2. Reflejos y Penumbra sobre el Agua',
               'en': '2. Reflections and Twilight over the Water'
@@ -84,12 +84,12 @@ export const ALBUMS: Album[] = [
         },
         {
           text: {
-            'es-AR': 'Avanzando hacia el tercer capítulo de esta historia visual en Encarnación, la luz del sol se volvió intensamente cálida y cobriza. En esta tercera fotografía de la colección, aprovechamos el contraluz natural de la tarde para destacar la silueta de Pamela contra la inmensidad náutica del horizonte. Su melena larguísima caía suavemente sobre su hombro derecho, funcionando como un marco brillante que captaba los destellos solares a la perfección. No fue necesario utilizar pantallas ni reflectores artificiales de ningún tipo; la nitidez del aire paraguayo y la calidez de la hora dorada hicieron todo el trabajo por sí solas. La sonrisa relajada y auténtica de Pamela refleja la felicidad genuina de disfrutar de la tarde cerca del agua, en una ciudad que abraza al visitante con calidez y encanto.',
-            'en': 'Moving into the third chapter of this visual story in Encarnación, the sunlight turned rich copper and amber. In this third photograph of the collection, we took full advantage of natural backlighting to highlight Pamela’s silhouette against the open river horizon. Her long hair draped gracefully over her right shoulder, acting as a glowing natural frame that caught the sunbeams beautifully. We used zero artificial reflectors; the crystal-clear atmosphere of Encarnación and natural golden hour lighting performed all the magic effortlessly. Pamela’s relaxed, authentic smile reflects the pure joy of spending late afternoon by the water in a town that welcomes travelers with genuine warmth.'
+            'es-AR': 'Avanzando hacia el tercer capítulo de esta historia visual en Encarnacion, la luz del sol se volvió intensamente cálida y cobriza. En esta tercera fotografía de la colección, aprovechamos el contraluz natural de la tarde para destacar la silueta de Pamela contra la inmensidad náutica del horizonte. Su melena larguísima caía suavemente sobre su hombro derecho, funcionando como un marco brillante que captaba los destellos solares a la perfección. No fue necesario utilizar pantallas ni reflectores artificiales de ningún tipo; la nitidez del aire paraguayo y la calidez de la hora dorada hicieron todo el trabajo por sí solas. La sonrisa relajada y auténtica de Pamela refleja la felicidad genuina de disfrutar de la tarde cerca del agua, en una ciudad que abraza al visitante con calidez y encanto.',
+            'en': 'Moving into the third chapter of this visual story in Encarnacion, the sunlight turned rich copper and amber. In this third photograph of the collection, we took full advantage of natural backlighting to highlight Pamela’s silhouette against the open river horizon. Her long hair draped gracefully over her right shoulder, acting as a glowing natural frame that caught the sunbeams beautifully. We used zero artificial reflectors; the crystal-clear atmosphere of Encarnacion and natural golden hour lighting performed all the magic effortlessly. Pamela’s relaxed, authentic smile reflects the pure joy of spending late afternoon by the water in a town that welcomes travelers with genuine warmth.'
           },
           image: {
             id: 'enc-img-3',
-            url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_3_4%20763474795_18616838380014206_5666045177538871763_n.jpg',
+            url: '/images/encarnacion-paraguay/3.jpg',
             title: {
               'es-AR': '3. Contraluz Dorado en el Horizonte',
               'en': '3. Golden Backlight on the Horizon'
@@ -103,12 +103,12 @@ export const ALBUMS: Album[] = [
         },
         {
           text: {
-            'es-AR': 'Llegando al cierre de esta inolvidable producción en Encarnación, el sol tocó finalmente la línea de los árboles en la orilla opuesta del río Paraná. Esta cuarta y última fotografía es un retrato más cercano e íntimo. Con los últimos rayos dorados acariciando suavemente su rostro y algunos mechones de su cabello largo cayendo sobre su vestido, Pamela despide la jornada. Fue una sesión fotográfica simple pero profundamente rica en sensaciones: la calidez de la tierra paraguaya, las risas contagiosas por el viento rebelde despeinando su cabellera y la paz incomparable de contemplar cómo la noche abraza al río. Una postal inolvidable que guarda el espíritu auténtico de nuestro viaje.',
-            'en': 'Reaching the close of this unforgettable editorial in Encarnación, the sun touched the tree line along the far bank of the Paraná River. This fourth and final photograph offers an intimate portrait. With final golden rays brushing against her face and soft strands of long dark hair falling onto her dress, Pamela bids farewell to the afternoon. It was a simple yet deeply rich production: the warmth of Paraguayan land, laughter over wind-tousled hair, and the matchless peace of watching twilight wrap around the river. A memory that preserves the authentic spirit of our journey.'
+            'es-AR': 'Llegando al cierre de esta inolvidable producción en Encarnacion, el sol tocó finalmente la línea de los árboles en la orilla opuesta del río Paraná. Esta cuarta y última fotografía es un retrato más cercano e íntimo. Con los últimos rayos dorados acariciando suavemente su rostro y algunos mechones de su cabello largo cayendo sobre su vestido, Pamela despide la jornada. Fue una sesión fotográfica simple pero profundamente rica en sensaciones: la calidez de la tierra paraguaya, las risas contagiosas por el viento rebelde despeinando su cabellera y la paz incomparable de contemplar cómo la noche abraza al río. Una postal inolvidable que guarda el espíritu auténtico de nuestro viaje.',
+            'en': 'Reaching the close of this unforgettable editorial in Encarnacion, the sun touched the tree line along the far bank of the Paraná River. This fourth and final photograph offers an intimate portrait. With final golden rays brushing against her face and soft strands of long dark hair falling onto her dress, Pamela bids farewell to the afternoon. It was a simple yet deeply rich production: the warmth of Paraguayan land, laughter over wind-tousled hair, and the matchless peace of watching twilight wrap around the river. A memory that preserves the authentic spirit of our journey.'
           },
           image: {
             id: 'enc-img-4',
-            url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_4_4%20729716695_18616838383014206_4333850232073912753_n.jpg',
+            url: '/images/encarnacion-paraguay/4.jpg',
             title: {
               'es-AR': '4. Resplandor Final y Despedida',
               'en': '4. Final Sunset Glow and Farewell'
@@ -122,16 +122,16 @@ export const ALBUMS: Album[] = [
         }
       ],
       behindTheScenesNote: {
-        'es-AR': 'Registrado en la Playa San José y la Costanera de Encarnación, Paraguay, en agosto de 2026. ¡Un saludo afectuoso al viento del Paraná por despeinarnos tanto y dejarnos recuerdos tan divertidos!',
-        'en': 'Documented along San José Beach in Encarnación, Paraguay, in August 2026. Warm thanks to the Paraná winds for giving us wild hair moments and great laughs!'
+        'es-AR': 'Registrado en la Playa San José y la Costanera de Encarnacion, Paraguay, en agosto de 2026. ¡Un saludo afectuoso al viento del Paraná por despeinarnos tanto y dejarnos recuerdos tan divertidos!',
+        'en': 'Documented along San José Beach in Encarnacion, Paraguay, in August 2026. Warm thanks to the Paraná winds for giving us wild hair moments and great laughs!'
       }
     },
     mainPicture: {
       id: 'enc-main-1',
-      url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_1_4%20762715425_18616838365014206_1873363318037267078_n.jpg',
+      url: '/images/encarnacion-paraguay/1.jpg',
       title: {
-        'es-AR': 'Serenidad en Encarnación',
-        'en': 'Waterfront Serenity in Encarnación'
+        'es-AR': 'Serenidad en Encarnacion',
+        'en': 'Waterfront Serenity in Encarnacion'
       },
       caption: {
         'es-AR': 'Pamela Belén Militello frente al Paraná.',
@@ -140,12 +140,12 @@ export const ALBUMS: Album[] = [
       aspectRatio: 'portrait'
     },
     allImages: [
-      { id: 'enc-img-1', url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_1_4%20762715425_18616838365014206_1873363318037267078_n.jpg', title: { 'es-AR': '1. Serenidad en la Costanera San José', 'en': '1. Waterfront Serenity on San José Beach' } },
-      { id: 'enc-img-2', url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_2_4%20763401568_18616838392014206_3313874946813523897_n.jpg', title: { 'es-AR': '2. Reflejos y Penumbra sobre el Agua', 'en': '2. Reflections and Twilight over the Water' } },
-      { id: 'enc-img-3', url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_3_4%20763474795_18616838380014206_5666045177538871763_n.jpg', title: { 'es-AR': '3. Contraluz Dorado en el Horizonte', 'en': '3. Golden Backlight on the Horizon' } },
-      { id: 'enc-img-4', url: '/images/Encarnacio%CC%81n,%20Paraguay/pamemilitello%20posts%202026-08-02%2020.22%20DbjsR5kkYKJ_4_4%20729716695_18616838383014206_4333850232073912753_n.jpg', title: { 'es-AR': '4. Resplandor Final y Despedida', 'en': '4. Final Sunset Glow and Farewell' } }
+      { id: 'enc-img-1', url: '/images/encarnacion-paraguay/1.jpg', title: { 'es-AR': '1. Serenidad en la Costanera San José', 'en': '1. Waterfront Serenity on San José Beach' } },
+      { id: 'enc-img-2', url: '/images/encarnacion-paraguay/2.jpg', title: { 'es-AR': '2. Reflejos y Penumbra sobre el Agua', 'en': '2. Reflections and Twilight over the Water' } },
+      { id: 'enc-img-3', url: '/images/encarnacion-paraguay/3.jpg', title: { 'es-AR': '3. Contraluz Dorado en el Horizonte', 'en': '3. Golden Backlight on the Horizon' } },
+      { id: 'enc-img-4', url: '/images/encarnacion-paraguay/4.jpg', title: { 'es-AR': '4. Resplandor Final y Despedida', 'en': '4. Final Sunset Glow and Farewell' } }
     ],
-    tags: ['Encarnación', 'Paraguay', 'Atardecer', 'Río Paraná', 'Costanera'],
+    tags: ['Encarnacion', 'Paraguay', 'Atardecer', 'Río Paraná', 'Costanera'],
     featured: true
   },
   {
@@ -173,7 +173,7 @@ export const ALBUMS: Album[] = [
       'es-AR': '12 min de lectura',
       'en': '12 min read'
     },
-    coverImage: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_1_7%20707189369_18594704254014206_6505430443247844632_n.jpg',
+    coverImage: '/images/en-algun-lugar-del-mundo/1.jpg',
     shortExcerpt: {
       'es-AR': 'Un viaje sin mapa ni horarios fijos por caminos rurales, donde el viento despeina libremente la cabellera de Pamela Belén Militello en 7 encuadres mágicos.',
       'en': 'A mapless road trip through countryside landscapes where winds play with Pamela Belén Militello’s long hair across 7 striking frames.'
@@ -191,7 +191,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'eam-img-1',
-            url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_1_7%20707189369_18594704254014206_6505430443247844632_n.jpg',
+            url: '/images/en-algun-lugar-del-mundo/1.jpg',
             title: { 'es-AR': '1. Horizonte Libre en el Camino', 'en': '1. Boundless Country Horizon' },
             caption: { 'es-AR': 'Pamela contemplando la inmensidad del campo al atardecer.', 'en': 'Pamela admiring the wide countryside at dusk.' }
           }
@@ -203,7 +203,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'eam-img-2',
-            url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_2_7%20706794263_18594704263014206_3330496029683473898_n.jpg',
+            url: '/images/en-algun-lugar-del-mundo/2.jpg',
             title: { 'es-AR': '2. Risas y Viento en el Pelo', 'en': '2. Laughter and Wind-Tossed Hair' },
             caption: { 'es-AR': 'Sonrisas espontáneas tras liberarse del nudo divertido en el cabello.', 'en': 'Unscripted smiles after untangling a funny hair knot.' }
           }
@@ -215,7 +215,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'eam-img-3',
-            url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_3_7%20708394690_18594704278014206_7166415735772871993_n.jpg',
+            url: '/images/en-algun-lugar-del-mundo/3.jpg',
             title: { 'es-AR': '3. Pausa a la Sombra del Campo', 'en': '3. Contemplative Pause in Field Shade' },
             caption: { 'es-AR': 'Reflexión tranquila con el pelo brillando al sol.', en: 'Quiet contemplation as her long hair catches sunlight.' }
           },
@@ -234,7 +234,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'eam-img-4',
-            url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_4_7%20707270301_18594704287014206_1232911793857176269_n.jpg',
+            url: '/images/en-algun-lugar-del-mundo/4.jpg',
             title: { 'es-AR': '4. Estructuras y Silueta Rústica', 'en': '4. Architectural Lines and Silhouette' },
             caption: { 'es-AR': 'Contraste entre arquitectura rústica y elegancia natural.', en: 'Contrast between rustic walls and natural grace.' }
           }
@@ -246,7 +246,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'eam-img-5',
-            url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_5_7%20706690848_18594704296014206_5263075413123876246_n.jpg',
+            url: '/images/en-algun-lugar-del-mundo/5.jpg',
             title: { 'es-AR': '5. Calidez Solar en la Mirada', 'en': '5. Warm Sunbeams and Gaze' },
             caption: { 'es-AR': 'Retrato cercano iluminado por la luz dorada.', en: 'Close portrait illuminated by golden hour sun.' }
           }
@@ -258,7 +258,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'eam-img-6',
-            url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_6_7%20708276956_18594704305014206_4537893252283918263_n.jpg',
+            url: '/images/en-algun-lugar-del-mundo/6.jpg',
             title: { 'es-AR': '6. Melena al Viento en la Pradera', 'en': '6. Long Hair Flowing in Country Breeze' },
             caption: { 'es-AR': 'Cabello largo flotando libremente en la brisa de la tarde.', en: 'Long dark hair flowing in the afternoon breeze.' }
           }
@@ -270,7 +270,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'eam-img-7',
-            url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_7_7%20707415231_18594704314014206_1737412778318454783_n.jpg',
+            url: '/images/en-algun-lugar-del-mundo/7.jpg',
             title: { 'es-AR': '7. Cierre del Recorrido al Anochecer', 'en': '7. Twilight Farewell to the Open Road' },
             caption: { 'es-AR': 'Último retrato sereno despidiendo la jornada viajera.', en: 'Serene final portrait closing the road trip.' }
           }
@@ -283,19 +283,19 @@ export const ALBUMS: Album[] = [
     },
     mainPicture: {
       id: 'eam-main-1',
-      url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_1_7%20707189369_18594704254014206_6505430443247844632_n.jpg',
+      url: '/images/en-algun-lugar-del-mundo/1.jpg',
       title: { 'es-AR': 'Horizonte Libre', 'en': 'Boundless Country Horizon' },
       caption: { 'es-AR': 'Pamela Belén Militello en algún lugar del mundo.', 'en': 'Pamela Belén Militello somewhere in the world.' },
       aspectRatio: 'portrait'
     },
     allImages: [
-      { id: 'eam-img-1', url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_1_7%20707189369_18594704254014206_6505430443247844632_n.jpg', title: { 'es-AR': '1. Horizonte Libre en el Camino', 'en': '1. Boundless Country Horizon' } },
-      { id: 'eam-img-2', url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_2_7%20706794263_18594704263014206_3330496029683473898_n.jpg', title: { 'es-AR': '2. Risas y Viento en el Pelo', 'en': '2. Laughter and Wind-Tossed Hair' } },
-      { id: 'eam-img-3', url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_3_7%20708394690_18594704278014206_7166415735772871993_n.jpg', title: { 'es-AR': '3. Pausa a la Sombra del Campo', 'en': '3. Contemplative Pause in Field Shade' } },
-      { id: 'eam-img-4', url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_4_7%20707270301_18594704287014206_1232911793857176269_n.jpg', title: { 'es-AR': '4. Estructuras y Silueta Rústica', 'en': '4. Architectural Lines and Silhouette' } },
-      { id: 'eam-img-5', url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_5_7%20706690848_18594704296014206_5263075413123876246_n.jpg', title: { 'es-AR': '5. Calidez Solar en la Mirada', 'en': '5. Warm Sunbeams and Gaze' } },
-      { id: 'eam-img-6', url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_6_7%20708276956_18594704305014206_4537893252283918263_n.jpg', title: { 'es-AR': '6. Melena al Viento en la Pradera', 'en': '6. Long Hair Flowing in Country Breeze' } },
-      { id: 'eam-img-7', url: '/images/En%20Algun%20Lugar%20Del%20Mundo/pamemilitello%20posts%202026-05-25%2017.20%20DYxsoP7Ea0H_7_7%20707415231_18594704314014206_1737412778318454783_n.jpg', title: { 'es-AR': '7. Cierre del Recorrido al Anochecer', 'en': '7. Twilight Farewell to the Open Road' } }
+      { id: 'eam-img-1', url: '/images/en-algun-lugar-del-mundo/1.jpg', title: { 'es-AR': '1. Horizonte Libre en el Camino', 'en': '1. Boundless Country Horizon' } },
+      { id: 'eam-img-2', url: '/images/en-algun-lugar-del-mundo/2.jpg', title: { 'es-AR': '2. Risas y Viento en el Pelo', 'en': '2. Laughter and Wind-Tossed Hair' } },
+      { id: 'eam-img-3', url: '/images/en-algun-lugar-del-mundo/3.jpg', title: { 'es-AR': '3. Pausa a la Sombra del Campo', 'en': '3. Contemplative Pause in Field Shade' } },
+      { id: 'eam-img-4', url: '/images/en-algun-lugar-del-mundo/4.jpg', title: { 'es-AR': '4. Estructuras y Silueta Rústica', 'en': '4. Architectural Lines and Silhouette' } },
+      { id: 'eam-img-5', url: '/images/en-algun-lugar-del-mundo/5.jpg', title: { 'es-AR': '5. Calidez Solar en la Mirada', 'en': '5. Warm Sunbeams and Gaze' } },
+      { id: 'eam-img-6', url: '/images/en-algun-lugar-del-mundo/6.jpg', title: { 'es-AR': '6. Melena al Viento en la Pradera', 'en': '6. Long Hair Flowing in Country Breeze' } },
+      { id: 'eam-img-7', url: '/images/en-algun-lugar-del-mundo/7.jpg', title: { 'es-AR': '7. Cierre del Recorrido al Anochecer', 'en': '7. Twilight Farewell to the Open Road' } }
     ],
     tags: ['Viajes', 'Libertad', 'Editorial', 'Wanderlust', 'Camino'],
     featured: true
@@ -325,7 +325,7 @@ export const ALBUMS: Album[] = [
       'es-AR': '12 min de lectura',
       'en': '12 min read'
     },
-    coverImage: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_1_6%20691832347_18590589052014206_870475421378798678_n.jpg',
+    coverImage: '/images/santa-terezinha-de-itaipu/1.jpg',
     shortExcerpt: {
       'es-AR': 'Una producción naturalista de 6 imágenes capturada cerca del Terminal Turístico de Itaipú, donde la luz filtrada hace brillar el cabello de Pamela Belén Militello.',
       'en': 'A 6-image nature editorial shot near Itaipu Lake where filtered sunlight makes Pamela Belén Militello’s long hair glow.'
@@ -343,7 +343,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'sti-img-1',
-            url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_1_6%20691832347_18590589052014206_870475421378798678_n.jpg',
+            url: '/images/santa-terezinha-de-itaipu/1.jpg',
             title: { 'es-AR': '1. Destellos entre la Arboleda', 'en': '1. Sunbeams Through Trees' },
             caption: { 'es-AR': 'Pamela envuelta por la luz filtrada en el parque natural de Itaipú.', 'en': 'Pamela wrapped in filtered sunlight in Itaipu park.' }
           }
@@ -355,7 +355,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'sti-img-2',
-            url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_2_6%20695717976_18590589064014206_7346731230169380433_n.jpg',
+            url: '/images/santa-terezinha-de-itaipu/2.jpg',
             title: { 'es-AR': '2. Silueta frente al Lago Itaipú', 'en': '2. Silhouette on Itaipu Shore' },
             caption: { 'es-AR': 'Contemplación serena junto a las aguas del embalse.', 'en': 'Serene contemplation beside reservoir waters.' }
           }
@@ -367,7 +367,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'sti-img-3',
-            url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_3_6%20686354236_18590589073014206_6913585908989153016_n.jpg',
+            url: '/images/santa-terezinha-de-itaipu/3.jpg',
             title: { 'es-AR': '3. Destello Solar Amplio', 'en': '3. Sunburst Flare in the Forest' },
             caption: { 'es-AR': 'Luz solar radiante abrazando la naturaleza boscosa.', 'en': 'Radiant sunlight wrapping around forest greenery.' }
           },
@@ -386,7 +386,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'sti-img-4',
-            url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_4_6%20696208113_18590589082014206_2043412072423690703_n.jpg',
+            url: '/images/santa-terezinha-de-itaipu/4.jpg',
             title: { 'es-AR': '4. Retrato Íntimo en la Sombra', 'en': '4. Intimate Portrait in Forest Shade' },
             caption: { 'es-AR': 'Detalle cercano aprovechando la sombra natural de los árboles.', en: 'Close detail utilizing natural tree shade.' }
           }
@@ -398,7 +398,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'sti-img-5',
-            url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_5_6%20693308356_18590589091014206_8674107110881255731_n.jpg',
+            url: '/images/santa-terezinha-de-itaipu/5.jpg',
             title: { 'es-AR': '5. Caminata al Atardecer por el Parque', 'en': '5. Sunset Walk Along Park Trails' },
             caption: { 'es-AR': 'Paso fluido por los caminos de Santa Terezinha de Itaipu.', en: 'Fluid stride along pathways in Santa Terezinha.' }
           }
@@ -410,7 +410,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'sti-img-6',
-            url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_6_6%20694879385_18590589151014206_107801882527746506_n.jpg',
+            url: '/images/santa-terezinha-de-itaipu/6.jpg',
             title: { 'es-AR': '6. Cierre Pacífico sobre el Lago Itaipú', 'en': '6. Peaceful Sunset Over Itaipu Lake' },
             caption: { 'es-AR': 'Última postal dorada despidiendo el sol en el embalse.', en: 'Final golden postcard closing sunset on the reservoir.' }
           }
@@ -423,18 +423,18 @@ export const ALBUMS: Album[] = [
     },
     mainPicture: {
       id: 'sti-main-1',
-      url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_1_6%20691832347_18590589052014206_870475421378798678_n.jpg',
+      url: '/images/santa-terezinha-de-itaipu/1.jpg',
       title: { 'es-AR': 'Naturaleza en Itaipú', 'en': 'Sunlight Canopy in Itaipu' },
       caption: { 'es-AR': 'Pamela Belén Militello rodeada de luz solar.', 'en': 'Pamela Belén Militello framed by golden sunlight.' },
       aspectRatio: 'portrait'
     },
     allImages: [
-      { id: 'sti-img-1', url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_1_6%20691832347_18590589052014206_870475421378798678_n.jpg', title: { 'es-AR': '1. Destellos entre la Arboleda', 'en': '1. Sunbeams Through Trees' } },
-      { id: 'sti-img-2', url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_2_6%20695717976_18590589064014206_7346731230169380433_n.jpg', title: { 'es-AR': '2. Silueta frente al Lago Itaipú', 'en': '2. Silhouette on Itaipu Shore' } },
-      { id: 'sti-img-3', url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_3_6%20686354236_18590589073014206_6913585908989153016_n.jpg', title: { 'es-AR': '3. Destello Solar Amplio', 'en': '3. Sunburst Flare in the Forest' } },
-      { id: 'sti-img-4', url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_4_6%20696208113_18590589082014206_2043412072423690703_n.jpg', title: { 'es-AR': '4. Retrato Íntimo en la Sombra', 'en': '4. Intimate Portrait in Forest Shade' } },
-      { id: 'sti-img-5', url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_5_6%20693308356_18590589091014206_8674107110881255731_n.jpg', title: { 'es-AR': '5. Caminata al Atardecer por el Parque', 'en': '5. Sunset Walk Along Park Trails' } },
-      { id: 'sti-img-6', url: '/images/Santa%20Terezinha%20de%20Itaipu/pamemilitello%20posts%202026-05-11%2017.29%20DYNqhaTkVmA_6_6%20694879385_18590589151014206_107801882527746506_n.jpg', title: { 'es-AR': '6. Cierre Pacífico sobre el Lago Itaipú', 'en': '6. Peaceful Sunset Over Itaipu Lake' } }
+      { id: 'sti-img-1', url: '/images/santa-terezinha-de-itaipu/1.jpg', title: { 'es-AR': '1. Destellos entre la Arboleda', 'en': '1. Sunbeams Through Trees' } },
+      { id: 'sti-img-2', url: '/images/santa-terezinha-de-itaipu/2.jpg', title: { 'es-AR': '2. Silueta frente al Lago Itaipú', 'en': '2. Silhouette on Itaipu Shore' } },
+      { id: 'sti-img-3', url: '/images/santa-terezinha-de-itaipu/3.jpg', title: { 'es-AR': '3. Destello Solar Amplio', 'en': '3. Sunburst Flare in the Forest' } },
+      { id: 'sti-img-4', url: '/images/santa-terezinha-de-itaipu/4.jpg', title: { 'es-AR': '4. Retrato Íntimo en la Sombra', 'en': '4. Intimate Portrait in Forest Shade' } },
+      { id: 'sti-img-5', url: '/images/santa-terezinha-de-itaipu/5.jpg', title: { 'es-AR': '5. Caminata al Atardecer por el Parque', 'en': '5. Sunset Walk Along Park Trails' } },
+      { id: 'sti-img-6', url: '/images/santa-terezinha-de-itaipu/6.jpg', title: { 'es-AR': '6. Cierre Pacífico sobre el Lago Itaipú', 'en': '6. Peaceful Sunset Over Itaipu Lake' } }
     ],
     tags: ['Santa Terezinha', 'Brasil', 'Naturaleza', 'Lago Itaipú', 'Paraná'],
     featured: true
@@ -464,7 +464,7 @@ export const ALBUMS: Album[] = [
       'es-AR': '15 min de lectura',
       'en': '15 min read'
     },
-    coverImage: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_1_8%20670653584_18583457350014206_7068812569993618582_n.jpg',
+    coverImage: '/images/posadas-misiones/1.jpg',
     shortExcerpt: {
       'es-AR': 'Una producción extensa de 8 fotos que explora el ritmo de Posadas, el contraste de la tierra colorada y el deslumbrante cabello largo de Pamela Belén Militello.',
       'en': 'An extensive 8-photo editorial exploring Posadas’ rhythm, red soil contrast, and Pamela Belén Militello’s long dark hair.'
@@ -482,7 +482,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-1',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_1_8%20670653584_18583457350014206_7068812569993618582_n.jpg',
+            url: '/images/posadas-misiones/1.jpg',
             title: { 'es-AR': '1. Paso Firme por la Costanera Posadeña', 'en': '1. Confident Stride Along Posadas Promenade' },
             caption: { 'es-AR': 'Pamela caminando bajo el sol despejado de la costanera.', 'en': 'Pamela walking under the bright sun along the waterfront.' }
           }
@@ -494,7 +494,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-2',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_2_8%20670871298_18583457341014206_2824349895549475570_n.jpg',
+            url: '/images/posadas-misiones/2.jpg',
             title: { 'es-AR': '2. Contraste Urbano en el Centro', 'en': '2. Urban Contrast in Historic Downtown' },
             caption: { 'es-AR': 'Estilo de calle integrado a la arquitectura de Posadas.', en: 'Street style integrated into Posadas architecture.' }
           }
@@ -506,7 +506,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-3',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_3_8%20671744062_18583457359014206_4232505025758615121_n.jpg',
+            url: '/images/posadas-misiones/3.jpg',
             title: { 'es-AR': '3. Luz de Plaza 9 de Julio', 'en': '3. Sunlight in Plaza 9 de Julio' },
             caption: { 'es-AR': 'Sonrisa sincera bajo las sombras de la plaza céntrica.', en: 'Genuine smile under central plaza shade.' }
           },
@@ -525,7 +525,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-4',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_4_8%20670514066_18583457368014206_8827926673758961430_n.jpg',
+            url: '/images/posadas-misiones/4.jpg',
             title: { 'es-AR': '4. Armonía con la Tierra Colorada', 'en': '4. Red Soil Harmony' },
             caption: { 'es-AR': 'Resaltando los tonos autóctonos del paisaje de Misiones.', en: 'Highlighting indigenous tones of the Misiones landscape.' }
           }
@@ -537,7 +537,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-5',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_5_8%20670903024_18583457380014206_4282077169527848695_n.jpg',
+            url: '/images/posadas-misiones/5.jpg',
             title: { 'es-AR': '5. Pausa frente a la Inmensidad del Río', 'en': '5. Pause Facing the Wide River' },
             caption: { 'es-AR': 'Mirada serena hacia el agua navegable.', en: 'Serene view over navigable river waters.' }
           }
@@ -549,7 +549,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-6',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_6_8%20672968148_18583457389014206_2726838411916624844_n.jpg',
+            url: '/images/posadas-misiones/6.jpg',
             title: { 'es-AR': '6. Dinamismo y Andar Fluido', 'en': '6. Dynamic Urban Stride' },
             caption: { 'es-AR': 'Movimiento natural en las calles cercanas a la costa.', en: 'Natural movement in streets near the waterfront.' }
           }
@@ -561,7 +561,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-7',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_7_8%20674403219_18583457398014206_7361611931256267563_n.jpg',
+            url: '/images/posadas-misiones/7.jpg',
             title: { 'es-AR': '7. Luces y Sombras del Atardecer', 'en': '7. Golden Shadows along the Pathway' },
             caption: { 'es-AR': 'Juego de luces doradas y sombras alargadas en el suelo.', en: 'Golden light and long shadows along the walkway.' }
           }
@@ -573,7 +573,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'pos-img-8',
-            url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_8_8%20671835275_18583457407014206_4470298605233747156_n.jpg',
+            url: '/images/posadas-misiones/8.jpg',
             title: { 'es-AR': '8. Noche Encendida en Posadas', 'en': '8. Night Lights on the Costanera' },
             caption: { 'es-AR': 'Cierre nocturno con las luces reflejadas en el río.', en: 'Night conclusion with waterfront lights reflecting in the river.' }
           }
@@ -586,20 +586,20 @@ export const ALBUMS: Album[] = [
     },
     mainPicture: {
       id: 'pos-main-1',
-      url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_1_8%20670653584_18583457350014206_7068812569993618582_n.jpg',
+      url: '/images/posadas-misiones/1.jpg',
       title: { 'es-AR': 'Paso por Posadas', 'en': 'Posadas Waterfront Stride' },
       caption: { 'es-AR': 'Pamela Belén Militello en la costanera de Posadas.', 'en': 'Pamela Belén Militello along Posadas promenade.' },
       aspectRatio: 'portrait'
     },
     allImages: [
-      { id: 'pos-img-1', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_1_8%20670653584_18583457350014206_7068812569993618582_n.jpg', title: { 'es-AR': '1. Paso Firme por la Costanera Posadeña', 'en': '1. Confident Stride Along Posadas Promenade' } },
-      { id: 'pos-img-2', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_2_8%20670871298_18583457341014206_2824349895549475570_n.jpg', title: { 'es-AR': '2. Contraste Urbano en el Centro', 'en': '2. Urban Contrast in Historic Downtown' } },
-      { id: 'pos-img-3', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_3_8%20671744062_18583457359014206_4232505025758615121_n.jpg', title: { 'es-AR': '3. Luz de Plaza 9 de Julio', 'en': '3. Sunlight in Plaza 9 de Julio' } },
-      { id: 'pos-img-4', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_4_8%20670514066_18583457368014206_8827926673758961430_n.jpg', title: { 'es-AR': '4. Armonía con la Tierra Colorada', 'en': '4. Red Soil Harmony' } },
-      { id: 'pos-img-5', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_5_8%20670903024_18583457380014206_4282077169527848695_n.jpg', title: { 'es-AR': '5. Pausa frente a la Inmensidad del Río', 'en': '5. Pause Facing the Wide River' } },
-      { id: 'pos-img-6', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_6_8%20672968148_18583457389014206_2726838411916624844_n.jpg', title: { 'es-AR': '6. Dinamismo y Andar Fluido', 'en': '6. Dynamic Urban Stride' } },
-      { id: 'pos-img-7', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_7_8%20674403219_18583457398014206_7361611931256267563_n.jpg', title: { 'es-AR': '7. Luces y Sombras del Atardecer', 'en': '7. Golden Shadows along the Pathway' } },
-      { id: 'pos-img-8', url: '/images/Posadas%20Misones/pamemilitello%20posts%202026-04-15%2017.06%20DXKrJYAEbQw_8_8%20671835275_18583457407014206_4470298605233747156_n.jpg', title: { 'es-AR': '8. Noche Encendida en Posadas', 'en': '8. Night Lights on the Costanera' } }
+      { id: 'pos-img-1', url: '/images/posadas-misiones/1.jpg', title: { 'es-AR': '1. Paso Firme por la Costanera Posadeña', 'en': '1. Confident Stride Along Posadas Promenade' } },
+      { id: 'pos-img-2', url: '/images/posadas-misiones/2.jpg', title: { 'es-AR': '2. Contraste Urbano en el Centro', 'en': '2. Urban Contrast in Historic Downtown' } },
+      { id: 'pos-img-3', url: '/images/posadas-misiones/3.jpg', title: { 'es-AR': '3. Luz de Plaza 9 de Julio', 'en': '3. Sunlight in Plaza 9 de Julio' } },
+      { id: 'pos-img-4', url: '/images/posadas-misiones/4.jpg', title: { 'es-AR': '4. Armonía con la Tierra Colorada', 'en': '4. Red Soil Harmony' } },
+      { id: 'pos-img-5', url: '/images/posadas-misiones/5.jpg', title: { 'es-AR': '5. Pausa frente a la Inmensidad del Río', 'en': '5. Pause Facing the Wide River' } },
+      { id: 'pos-img-6', url: '/images/posadas-misiones/6.jpg', title: { 'es-AR': '6. Dinamismo y Andar Fluido', 'en': '6. Dynamic Urban Stride' } },
+      { id: 'pos-img-7', url: '/images/posadas-misiones/7.jpg', title: { 'es-AR': '7. Luces y Sombras del Atardecer', 'en': '7. Golden Shadows along the Pathway' } },
+      { id: 'pos-img-8', url: '/images/posadas-misiones/8.jpg', title: { 'es-AR': '8. Noche Encendida en Posadas', 'en': '8. Night Lights on the Costanera' } }
     ],
     tags: ['Posadas', 'Misiones', 'Argentina', 'Costanera', 'Tierra Colorada'],
     featured: false
@@ -629,7 +629,7 @@ export const ALBUMS: Album[] = [
       'es-AR': '10 min de lectura',
       'en': '10 min read'
     },
-    coverImage: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg',
+    coverImage: '/images/balneario-camboriu/1.jpg',
     shortExcerpt: {
       'es-AR': 'Una espectacular serie costera de 4 fotografías donde Pamela Belén Militello posa descalza frente a los rascacielos y la Rueda Gigante FG Big Wheel con su melena larguísima flotando al viento.',
       'en': 'A spectacular 4-photo coastal series where Pamela Belén Militello poses barefoot before iconic skyscrapers and the FG Big Wheel with her long dark hair flowing.'
@@ -647,7 +647,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'bal-img-1',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg',
+            url: '/images/balneario-camboriu/1.jpg',
             title: { 'es-AR': '1. Silueta Costera y Rascacielos', 'en': '1. Coastal Silhouette and Skyline' },
             caption: { 'es-AR': 'Pamela de perfil sobre la playa con los rascacielos y la Rueda Gigante de fondo.', 'en': 'Pamela posing on the beach with skyscrapers and the Big Wheel behind.' },
             aspectRatio: 'portrait'
@@ -660,7 +660,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'bal-img-2',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_2_4%20655184733_18097401329055057_1868155506625292405_n.jpg',
+            url: '/images/balneario-camboriu/2.jpg',
             title: { 'es-AR': '2. Sonrisa bajo la Rueda Gigante', 'en': '2. Radiant Smile at the Big Wheel' },
             caption: { 'es-AR': 'Pamela sonriendo a cámara con la FG Big Wheel a sus espaldas.', 'en': 'Pamela smiling warmly with the FG Big Wheel behind her.' },
             aspectRatio: 'portrait'
@@ -680,7 +680,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'bal-img-3',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_3_4%20655836617_18058305293701465_2887997485201314726_n.jpg',
+            url: '/images/balneario-camboriu/3.jpg',
             title: { 'es-AR': '3. Cortina de Cabello y Brisa Marina', 'en': '3. Flowing Hair Curtain in the Breeze' },
             caption: { 'es-AR': 'El viento marino haciendo elevar la larga melena de Pamela.', 'en': 'Sea wind lifting Pamela’s long dark hair to the side.' },
             aspectRatio: 'portrait'
@@ -693,7 +693,7 @@ export const ALBUMS: Album[] = [
           },
           image: {
             id: 'bal-img-4',
-            url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_4_4%20654024238_18074761664431094_1479329844602648616_n.jpg',
+            url: '/images/balneario-camboriu/4.jpg',
             title: { 'es-AR': '4. Esplendor del Cabello al Viento', 'en': '4. Flowing Hair Spectacle' },
             caption: { 'es-AR': 'Toma posterior donde se aprecia la longitud increíble del pelo de Pamela.', 'en': 'Rear perspective showcasing Pamela’s extraordinary hair length.' },
             aspectRatio: 'portrait'
@@ -707,16 +707,16 @@ export const ALBUMS: Album[] = [
     },
     mainPicture: {
       id: 'bal-main-1',
-      url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg',
+      url: '/images/balneario-camboriu/1.jpg',
       title: { 'es-AR': 'Brisa en Camboriú', 'en': 'Atlantic Breeze in Camboriú' },
       caption: { 'es-AR': 'Pamela Belén Militello en la playa de Balneário Camboriú.', 'en': 'Pamela Belén Militello on Balneário Camboriú beach.' },
       aspectRatio: 'portrait'
     },
     allImages: [
-      { id: 'bal-img-1', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_1_4%20654244535_18115368064581127_3644551667696729642_n.jpg', title: { 'es-AR': '1. Silueta Costera y Rascacielos', 'en': '1. Coastal Silhouette and Skyline' } },
-      { id: 'bal-img-2', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_2_4%20655184733_18097401329055057_1868155506625292405_n.jpg', title: { 'es-AR': '2. Sonrisa bajo la Rueda Gigante', 'en': '2. Radiant Smile at the Big Wheel' } },
-      { id: 'bal-img-3', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_3_4%20655836617_18058305293701465_2887997485201314726_n.jpg', title: { 'es-AR': '3. Cortina de Cabello y Brisa Marina', 'en': '3. Flowing Hair Curtain in the Breeze' } },
-      { id: 'bal-img-4', url: '/images/Balnea%CC%81rio%20Camboriu%CC%81/pamemilitello%20posts%202024-08-15%2012.35%20C-so3qMuwP5_4_4%20654024238_18074761664431094_1479329844602648616_n.jpg', title: { 'es-AR': '4. Esplendor del Cabello al Viento', 'en': '4. Flowing Hair Spectacle' } }
+      { id: 'bal-img-1', url: '/images/balneario-camboriu/1.jpg', title: { 'es-AR': '1. Silueta Costera y Rascacielos', 'en': '1. Coastal Silhouette and Skyline' } },
+      { id: 'bal-img-2', url: '/images/balneario-camboriu/2.jpg', title: { 'es-AR': '2. Sonrisa bajo la Rueda Gigante', 'en': '2. Radiant Smile at the Big Wheel' } },
+      { id: 'bal-img-3', url: '/images/balneario-camboriu/3.jpg', title: { 'es-AR': '3. Cortina de Cabello y Brisa Marina', 'en': '3. Flowing Hair Curtain in the Breeze' } },
+      { id: 'bal-img-4', url: '/images/balneario-camboriu/4.jpg', title: { 'es-AR': '4. Esplendor del Cabello al Viento', 'en': '4. Flowing Hair Spectacle' } }
     ],
     tags: ['Camboriú', 'Brasil', 'Playa', 'Atlántico', 'Rueda Gigante'],
     featured: false
